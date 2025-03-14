@@ -1,0 +1,18 @@
+{
+  "name": "com.tapp.sdk",
+  "version": "1.1.0",
+  "displayName": "Tapp for iOS",
+  "description": "Tapp Plugin for iOS",
+  "keywords": [
+    "iOS",
+    "native",
+    "AppGroups"
+  ],
+  "author": {
+    "name": "Eisenhuth",
+    "email": "",
+    "url": "https://github.com/yuosifhanna95/Unity-tapp"
+  },
+  "hideInEditor": false,
+  "dependencies": {}
+}
